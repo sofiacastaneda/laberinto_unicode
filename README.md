@@ -1,5 +1,4 @@
-#Laberinto Unicode: cruces y entrecruces de caracteres. 
-
+# Laberinto Unicode: cruces y entrecruces de caracteres. 
 
 Este proyecto tipográfico busca divulgar el fascinante mundo de los caracteres Unicode, ofreciendo al usuario una experiencia interactiva y estéticamente agradable para familiarizarse con ellos. 
 
