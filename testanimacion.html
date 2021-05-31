@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ea">
+  <head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Keywords" content="Unicode">  
+	<meta name="Description" content="Experiencia interactiva para explorar y conocer los caracteres Unicode.">  
+	<meta name="author" content="Sofía Castañeda Mosquera">  
+ 	<meta name="copyright" content="Todos los derechos reservados, ejercicio exclusivamente académico.">
+    <title>test</title>
+    <!-- Bootstrap -->
+	<link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/mis_estilos.css">
+	<script src="anime-master/lib/anime.min.js"></script>
+	<!--Fuentes-->  
+  </head>
+  <body>
+
+  <h1>hola</h1>
+	  
+	  <!--animación-->
+	  <script src="anime.min.js"></script> 
+	 <div class="container">
+	  <div class="circle"></div>
+	  
+	  <div class="square"></div>
+	  
+	  <div class="letra">
+	  <h1>A</h1>
+	  </div>
+		 
+		 <div class="icono">
+	  <h1>&#x3020;</h1>
+	  </div>
+
+	  
+	  <script>
+		  anime({
+			  targets: '.circle',
+			  translateX: 250
+		  });    
+	  </script>
+	
+	  <script>
+		  anime({
+			  targets: '.square',
+			  translateX: 350
+		  });    
+	  </script>
+	  
+	   <script>
+		  anime({
+			  targets: '.letra',
+			  translateX: 450
+		  });    
+	  </script>
+		 
+		 <script>
+		  anime({
+			  targets: '.icono',
+			  translateX: 550
+		  });    
+	  </script>
+	  </div>
+	 
+	  
+	  <div class="container">
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+        <div class="squares"></div>
+    </div>
+	  
+	  
+
+	  
+	  <script>
+	  anime({
+  targets: '.container .squares',
+  translateX: anime.stagger(10, {grid: [4, 5], from: 'center', axis: 'x'}),
+  translateY: anime.stagger(10, {grid: [4, 5], from: 'center', axis: 'y'}),
+  delay: anime.stagger(200, {grid: [4, 5], from: 'center'})
+});
+	  </script>
+	  
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+	<script src="js/jquery-3.4.1.min.js"></script>
+
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="js/popper.min.js"></script> 
+	<script src="js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
