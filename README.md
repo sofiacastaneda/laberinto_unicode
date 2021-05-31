@@ -12,7 +12,7 @@ El sitio web fue realizado con HTML, CSS y Bootstrap. Todos las composiciones gr
 ## Contenidos del proyecto
 
 * **Sitio web
-* **Showcase del proyecto:** *Portafolio.*
+* **Showcase del proyecto:** Portafolio.
 * **Manual de estilo e interacción:** Muestra paso a paso las decisiones estéticas y funcionales que se tomaron en el desarrollo del sitio.
 * **Video teaser:** Trailer del proyecto; muestra la página y da contexto del tema. 
 * **Board de proceso:** Muestra la investigación y el desarrollo del proyecto siguiendo la metodología Design Thinking. 
