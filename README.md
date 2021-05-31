@@ -18,3 +18,7 @@ El sitio web fue realizado con HTML, CSS y Bootstrap. Todos las composiciones gr
 * **Board de proceso:** Muestra la investigación y el desarrollo del proyecto siguiendo la metodología Design Thinking. 
 * **Repositorio:** Documentación del proyecto y contenidos del sitio. 
 
+## 
+>U·ni·code | ˈyo͞onəˌkōd |
+>*sustantivo Computación*
+>estándar internacional de codificación para diferentes lenguajes, alfabetos y caracteres, mediante el cual cada létra, digito o símbolo es asignado a un valor numérico único que es aplicado a través de diferentes plataformas y programas. 
