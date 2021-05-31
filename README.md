@@ -9,3 +9,11 @@ Este proyecto tipográfico busca divulgar el fascinante mundo de los caracteres 
 El sitio web fue realizado con HTML, CSS y Bootstrap. Esta página web responde a la investigación realizada previamente sobre el universo de los caracteres Unicode. El mapa del sitio, junto con el proceso de investigación detallado puede encontrarse en el board de proceso. El showcase del proyecto se encuentra en Bēhance, al igual que el video teaser del proyecto.
 
 
+## Contenidos del proyecto
+
+* Sitio web
+* Showcase del proyecto: Portafolio.
+* Manual de estilo e interacción: Muestra paso a paso las decisiones estéticas y funcionales que se tomaron en el desarrollo del sitio.
+* Video teaser: Trailer del proyecto; muestra la página y da contexto del tema. 
+* Board de proceso: Muestra la investigación y el desarrollo sustentado del proyecto siguiendo la metodología Design Thinking. 
+
