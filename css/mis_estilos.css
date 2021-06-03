@@ -53,7 +53,7 @@ position:absolute;
 text-align: center;
 height: 100%;
 width: 100%;
-z-index: -1000000 !important;	
+z-index: -10 !important;	
 }
 
 
@@ -157,15 +157,25 @@ width: 100vw;
 height: 100vh;	
 }
 
-/*body {
-    display: flex;
-    justify-content: space-around;
-}*/
-
 .body03{
 background-color: #F0B226;
-	
+background-image: url("../imagenes/noodles.jpg");
+background-size: 100vw;
+background-repeat: no-repeat;	
 }
+
+/*CLASES SVG'S*/
+	.st0{opacity:0.1;fill:#FFFFFF;}
+	.st1{opacity:0;fill:#FF0000;}
+	.st2{opacity:0;fill:#00FF00;}
+	.st3{fill:none;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family: 'Infini';}
+	.st6{font-size:102px;}
+	.st7{font-size:72px;}
+	.st8{font-size:82px;}
+	.st9{font-family:'Infini';}
+	.st10{font-size:50px;}
 
 /*===============================*/
 /*********************************/
@@ -179,9 +189,34 @@ background-color: #F0B226;
 /*===============================*/
 
 /*05 MAPA*/
+.bodymap05{
+background-color: #F0B226;	
+}
+
+/*Línea morada*/
+.st00{fill:none;stroke:#5109FF;stroke-width:55;stroke-miterlimit:10;}
+
+/*Glifos amarillos*/
+.st11{fill:#F1B227;}
+
+/*===============================*/
+/*********************************/
+/*===============================*/
 
 
+/*09 EXPERIENCIA CUADRÍCULA*/
 
+.bodyexp09{
+background-color: #F0B226;		
+}
+
+
+/*===============================*/
+/*********************************/
+/*===============================*/
+
+
+/*test animación*/
 .circle{
 height: 50px;
 	width: 50px;
