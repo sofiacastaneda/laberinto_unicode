@@ -22,39 +22,31 @@
 	<!--Otras: Infini-->
 	<link href="http://fonts.cdnfonts.com/css/infini" rel="stylesheet">  	    
   </head>
+	
+  <style>
+	/*Sé que no es recomendado usar el CSS online pero esto evita que se dañe el código de los otros SVG's del sitio, la que la hoja de .css es compartida*/  
+	/*efecto aparecer y desaparecer svg's*/
+			.target {
+			fill: none;
+			pointer-events: visibleFill;                 
+		}
+
+		svg:hover g:not(:hover) text {
+			opacity: 0;                                  
+		}
+
+			svg:not(:hover){
+				opacity: 0;                                  	
+			}	
+
+		svg:hover g:not(:hover) path {
+			opacity: 0;                                  
+		}	
+   </style>	
   <body class="body03">
 	  
 <svg version="1.1" viewBox="0 0 1920 1080" preserveAspectRatio="xMinYMin meet" class="svg-content">
-<style type="text/css">
-	.st0{opacity:0.1;fill:#FFFFFF;}
-	.st1{opacity:0;fill:#FF0000;}
-	.st2{opacity:0;fill:#00FF00;}
-	.st3{fill:none;}
-	.st4{fill:#FFFFFF;}
-	.st5{font-family: 'Infini';}
-	.st6{font-size:102px;}
-	.st7{font-size:72px;}
-	.st8{font-size:82px;}
-	.st9{font-family:'Infini';}
-	.st10{font-size:50px;}
-	
-	.target {
-    fill: none;
-    pointer-events: visibleFill;                 
-}
-svg:hover g:not(:hover) text {
-    opacity: 0;                                  
-}
 
-	svg:not(:hover){
-	    opacity: 0;                                  	
-	}	
-
-svg:hover g:not(:hover) path {
-    opacity: 0;                                  
-}	
-	
-	</style>
 <image style="overflow:visible;enable-background:new;" width="1921" height="1081" xlink:href="imagenes/cuerditas.png"  transform="matrix(1 0 0 1 -1.03 -0.56)"></image>
 
 <!--ÁREA 1-->
