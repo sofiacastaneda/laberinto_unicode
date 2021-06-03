@@ -21,4 +21,4 @@ El sitio web fue realizado con HTML, CSS y Bootstrap. Todos las composiciones gr
 ## 
 >**U·ni·code | ˈyo͞onəˌkōd |**
 >*sustantivo, computación:*
->Estándar internacional de codificación para diferentes lenguajes, alfabetos y caracteres, mediante el cual cada létra, digito o símbolo es asignado a un valor numérico único que es aplicado a través de diferentes plataformas y programas. 
+>Estándar internacional de codificación para diferentes lenguajes, alfabetos y caracteres, mediante el cual cada letra, digito o símbolo es asignado a un valor numérico único que es aplicado a través de diferentes plataformas y programas. 
