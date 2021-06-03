@@ -6,7 +6,7 @@
 
 Este proyecto tipográfico busca divulgar el fascinante mundo de los caracteres Unicode, ofreciendo al usuario una experiencia interactiva y estéticamente agradable para familiarizarse con ellos. 
 
-El sitio web fue realizado con HTML, CSS y Bootstrap. Todos las composiciones gráficas son propias; las tipografías utilizadas fueron [Google Noto](https://www.google.com/get/noto/), [Space Mono](https://beautifulwebtype.com/space-mono/), [Infini](http://cnap.graphismeenfrance.fr/infini/en/), [Cy](https://fonts.adobe.com/fonts/cy).
+El sitio web fue realizado con HTML, CSS y Bootstrap. Todos las composiciones gráficas son propias; las tipografías utilizadas fueron [Google Noto](https://www.google.com/get/noto/), [Space Mono](https://beautifulwebtype.com/space-mono/), [Infini](http://cnap.graphismeenfrance.fr/infini/en/), [Cy](https://fonts.adobe.com/fonts/cy), [Lo-Res](https://www.emigre.com/Fonts/Lo-Res).
 
 ## Contenidos del proyecto
 
