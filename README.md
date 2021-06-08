@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sofiacastaneda/laberinto_unicode/blob/main/assets_readme/mapa.png" width="650">
 
-[Bēhance](https://www.behance.net/gallery/120792609/Laberinto-Unicode) | [Sitio web](https://sofiacastaneda.github.io/laberinto_unicode/) | [Diario del sitio](#) | [Video teaser](#) | [Board de proceso](https://miro.com/app/board/o9J_lB1mGm8=/) | [Repositorio](https://github.com/sofiacastaneda/laberinto_unicode)
+[Bēhance](https://www.behance.net/gallery/120792609/Laberinto-Unicode) | [Sitio web](https://sofiacastaneda.github.io/laberinto_unicode/) | [Manual de Proceso](https://www.yumpu.com/es/document/read/65700409/manual-de-proceso-laberinto-unicode) | [Video teaser](#) | [Board de proceso](https://miro.com/app/board/o9J_lB1mGm8=/) | [Repositorio](https://github.com/sofiacastaneda/laberinto_unicode)
 
 Este proyecto tipográfico busca divulgar el fascinante mundo de los caracteres Unicode, ofreciendo al usuario una experiencia interactiva y estéticamente agradable para familiarizarse con ellos. 
 
